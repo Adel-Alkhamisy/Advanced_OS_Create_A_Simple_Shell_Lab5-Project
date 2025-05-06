@@ -1,0 +1,8 @@
+void execute_command_with_pipes_and_redirection(char* command_arguments[]) {
+void execute_command_with_pipes_and_redirection(char* command_arguments[]);
+void handle_interrupt_signal(int signal_number) { 
+void handle_interrupt_signal(int signal_number);
+void process_token_quotes(char* token) {
+void process_token_quotes(char* token);
+void terminate_after_timeout(int seconds, int process_id) {
+void terminate_after_timeout(int seconds, int process_id);
